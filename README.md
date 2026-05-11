@@ -1,5 +1,6 @@
 # 👋 ¡Hola! Soy Diego Alberto Rodríguez Ramos
 
+➡️** Mi curriculum ** https://curriculum-diego-rodriguez.vercel.app/
 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** y **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
 💻 Apasionado por el desarrollo web, Java, bases de datos y la creación de aplicaciones útiles y funcionales.  
 🚀 Buscando prácticas para seguir creciendo como desarrollador y aportar valor real a una empresa.
@@ -43,6 +44,10 @@ Aplicación web con modo estudio y modo test, preguntas editables, modo oscuro/c
 
 ---
 
+### 🗒️ HTML de mi Curriculum
+Mi curriculum Vitae en formato HTML
+👉 ** Acceso a mi curriculum ** https://curriculum-diego-rodriguez.vercel.app/
+👉 ** Repositorio:** https://github.com/WindedDiego/curriculum-diego-rodriguez
 ## 🎯 Objetivo profesional
 
 Seguir aprendiendo, mejorar como desarrollador y aportar soluciones reales en un entorno profesional.  
