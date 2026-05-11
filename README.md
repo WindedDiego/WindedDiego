@@ -46,10 +46,10 @@ Aplicación web con modo estudio y modo test, preguntas editables, modo oscuro/c
 ---
 
 ### 🗒️ HTML de mi Curriculum
-Mi curriculum Vitae en formato HTML.
+👉 **Acceso a mi curriculum:** 
 [📄 Ver mi Curriculum](https://curriculum-diego-rodriguez.vercel.app)
 
-👉 ** Repositorio:** https://github.com/WindedDiego/curriculum-diego-rodriguez
+👉 **Repositorio:**  https://github.com/WindedDiego/curriculum-diego-rodriguez
 
 ---
 
