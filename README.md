@@ -35,6 +35,9 @@
 - Eclipse  
 
 ---
+## 📌 Proyectos destacados
+
+
 ### 🗒️ HTML de mi Curriculum
 👉 **Acceso a mi curriculum:** 
 [📄 Ver mi Curriculum](https://curriculum-diego-rodriguez.vercel.app)
@@ -43,7 +46,6 @@
 
 ---
 
-## 📌 Proyectos destacados
 
 ### 📘 Aplicación de Test para Administración y Finanzas  
 Aplicación web con modo estudio y modo test, preguntas editables, modo oscuro/claro y diseño responsive.  
