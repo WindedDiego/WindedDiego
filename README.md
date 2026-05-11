@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Diego Alberto Rodríguez Ramos
 
-➡️** Mi curriculum:** [📄 Ver mi Curriculum](https://curriculum-diego-rodriguez.vercel.app)
+➡️ [📄 Ver mi Curriculum](https://curriculum-diego-rodriguez.vercel.app)
 
 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** y **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
 💻 Apasionado por el desarrollo web, Java, bases de datos y la creación de aplicaciones útiles y funcionales.  
