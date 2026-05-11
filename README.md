@@ -54,6 +54,15 @@ Aplicación web con modo estudio y modo test, preguntas editables, modo oscuro/c
 
 ---
 
+### 🗂️ Gestor Dinámico de Eventos  
+Aplicación web tipo SPA que permite crear, gestionar y filtrar eventos de forma dinámica.  
+Incluye validación avanzada, modo oscuro, categorías visuales, búsqueda en tiempo real y diseño responsive.
+
+👉 **Demo:** https://gestor-dinamico-eventos.vercel.app  
+👉 **Repositorio:** https://github.com/WindedDiego/gestor-dinamico-eventos
+
+---
+
 ## 🎯 Objetivo profesional
 Seguir aprendiendo, mejorar como desarrollador y aportar soluciones reales en un entorno profesional.  
 Me interesa especialmente:
