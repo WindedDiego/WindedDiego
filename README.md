@@ -41,6 +41,7 @@
 ### 📘 Aplicación de Test para Administración y Finanzas  
 Aplicación web con modo estudio y modo test, preguntas editables, modo oscuro/claro y diseño responsive.  
 👉 **Demo:** https://admin-y-finanzas.vercel.app  
+
 👉 **Repositorio:** https://github.com/WindedDiego/APP-ESTUDIO-ADMIN-Y-GESTION
 
 ---
