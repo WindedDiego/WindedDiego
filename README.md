@@ -67,7 +67,7 @@ Aplicación web con modo estudio y modo test, preguntas editables, modo oscuro/c
 Aplicación web tipo SPA que permite crear, gestionar y filtrar eventos de forma dinámica.  
 Incluye validación avanzada, modo oscuro, categorías visuales, búsqueda en tiempo real y diseño responsive.
 
-👉 **Demo:** https://admin-y-finanzas.vercel.app  
+👉 **Demo:** https://gestor-dinamico-de-eventos.vercel.app 
 
 👉 **Repositorio:** https://github.com/WindedDiego/APP-ESTUDIO-ADMIN-Y-GESTION  
 
