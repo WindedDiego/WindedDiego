@@ -13,7 +13,7 @@
 ### 💻 Backend / Lógica
 - Java  
 - JavaScript  
-- Bash 
+- Bash  
 - Python  
 
 ### 🌐 Frontend
@@ -33,10 +33,17 @@
 - Netlify  
 - VS Code  
 - Eclipse  
+- NetBeans  
+- IntelliJ IDEA  
+- PyCharm  
+- WebStorm  
+- Notepad++  
+- Dia (Diagram Editor)  
+- Flowgorithm  
 
 ---
-## 📌 Proyectos destacados
 
+## 📌 Proyectos destacados
 
 ### 🗒️ HTML de mi Curriculum
 👉 **Acceso a mi curriculum:** 
