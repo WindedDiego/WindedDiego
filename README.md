@@ -69,8 +69,7 @@ Incluye validación avanzada, modo oscuro, categorías visuales, búsqueda en ti
 
 👉 **Demo:** https://gestor-dinamico-de-eventos.vercel.app 
 
-👉 **Repositorio:** [https://github.com/WindedDiego/APP-ESTUDIO-ADMIN-Y-GESTION](https://github.com/WindedDiego/gestor-dinamico-de-eventos)  
-
+👉 **Repositorio:** https://github.com/WindedDiego/gestor-dinamico-de-eventos
 ---
 
 ## 🎯 Objetivo profesional
