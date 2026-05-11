@@ -35,6 +35,13 @@
 - Eclipse  
 
 ---
+### 🗒️ HTML de mi Curriculum
+👉 **Acceso a mi curriculum:** 
+[📄 Ver mi Curriculum](https://curriculum-diego-rodriguez.vercel.app)
+
+👉 **Repositorio:**  https://github.com/WindedDiego/curriculum-diego-rodriguez
+
+---
 
 ## 📌 Proyectos destacados
 
@@ -44,23 +51,16 @@ Aplicación web con modo estudio y modo test, preguntas editables, modo oscuro/c
 
 👉 **Repositorio:** https://github.com/WindedDiego/APP-ESTUDIO-ADMIN-Y-GESTION
 
-
 ---
 
-### 🗒️ HTML de mi Curriculum
-👉 **Acceso a mi curriculum:** 
-[📄 Ver mi Curriculum](https://curriculum-diego-rodriguez.vercel.app)
-
-👉 **Repositorio:**  https://github.com/WindedDiego/curriculum-diego-rodriguez
-
----
 
 ### 🗂️ Gestor Dinámico de Eventos  
 Aplicación web tipo SPA que permite crear, gestionar y filtrar eventos de forma dinámica.  
 Incluye validación avanzada, modo oscuro, categorías visuales, búsqueda en tiempo real y diseño responsive.
 
-👉 **Demo:** https://gestor-dinamico-de-eventos.vercel.app 
-👉 **Repositorio:** [https://github.com/WindedDiego/gestor-dinamico-eventos](https://github.com/WindedDiego/gestor-dinamico-de-eventos)
+👉 **Demo:** https://admin-y-finanzas.vercel.app  
+
+👉 **Repositorio:** https://github.com/WindedDiego/APP-ESTUDIO-ADMIN-Y-GESTION  
 
 ---
 
